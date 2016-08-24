@@ -1,0 +1,13 @@
+//
+//  NewViewController.h
+//  temp
+//
+//  Created by WeichengWang on 16/8/24.
+//  Copyright © 2016年 WW. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface NewViewController : UIViewController
+
+@end
